@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Francisco
 
-<!--
-**FranciscoAntonelli/FranciscoAntonelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer en formación enfocado en Python, Java y bases de datos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Proyectos destacados
+
+- 🌱 Sistema de gestión de vivero (Python + PyQt6 + PostgreSQL)
+
+---
+
+## 📫 Contacto
+
+- GitHub: FranciscoAntonelli  
+- LinkedIn: https://www.linkedin.com/in/francisco-antonelli/
+- Email: franciscoantonelli1999@gmail.com
